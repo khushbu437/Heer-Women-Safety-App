@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "794707823735",
+    "project_id": "women-app-58129",
+    "storage_bucket": "women-app-58129.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794707823735:android:109101d93f309b31074a72",
+        "android_client_info": {
+          "package_name": "com.android.sheguard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794707823735-36m70pfiomcoqaofn5anl39sna9lcjol.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.sheguard",
+            "certificate_hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+          }
+        },
+        {
+          "client_id": "794707823735-bla3fgjfpnsul661squrijp9374uvf40.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaBAni7KNvdS6BxLVUYQsn5zpnlgoS9gA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794707823735-bla3fgjfpnsul661squrijp9374uvf40.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
