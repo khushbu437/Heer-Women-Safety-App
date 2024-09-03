@@ -1,1 +1,11 @@
 # Heer-Women-Safety-App
+This women safety app’ is a comprehensive mobile application designed to enhance personal safety and provide support during emergencies.
+
+This is my third year project, Heer -The women safety app’ incorporates a range of features to address various safety concerns and empower users to stay safe in their daily lives. One of the key features of the app is GPS sharing with registered contacts, allowing users to share their real-time location with trusted individuals. This feature can be activated discreetly in case of an emergency, providing an added layer of security and facilitating a quick response from friends or family members. The app also includes shake detection technology, which can be used to trigger an emergency alert with a simple shake of the phone. This feature is especially useful in situations where the user is unable to make a call or send a message manually, such as during a physical assault or threat. In addition to these emergency features, the app provides users with access to a range of safety tips and information. This includes advice on how to stay safe in various situations, self-defence techniques, and information on local support services and resources. Furthermore, the app includes a database of helpline numbers for quick access to emergency services, support organizations, and other relevant agencies. Users can easily find and contact these services directly from within the app, streamlining the process of seeking help in times of need. Overall, the women safety app is a powerful tool for enhancing personal safety and providing peace of mind to users. Its combination of GPS sharing, shake detection, safety tips, helpline numbers, and emergency services integration makes it a comprehensive solution for women's safety in today's world.
+
+![image](https://github.com/user-attachments/assets/fec636ab-dc98-4029-b7d6-e0bb22177153)
+![image](https://github.com/user-attachments/assets/88d54e7d-745d-41b9-b80e-01b2ce2753ed)
+![image](https://github.com/user-attachments/assets/858e39c9-6d81-465d-b96b-f0b30c9ffecf)
+![image](https://github.com/user-attachments/assets/46011b58-ea14-4da9-ac35-6ae284a1ff27)
+![image](https://github.com/user-attachments/assets/652218d2-d886-410c-b030-d4c3c66d38e3)
+![image](https://github.com/user-attachments/assets/e660cba1-3d76-4314-a90c-cde985d7d9d6)
